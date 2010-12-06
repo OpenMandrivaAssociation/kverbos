@@ -1,7 +1,7 @@
 Summary: An educational program that helps people practice Spanish verbs
 Name: kverbos
 Version: 2.0
-Release: %mkrel 1
+Release: %mkrel 2
 Source: http://www.mzgz.de/kverbos/%name-%version.tar.gz
 License: GPLv2+
 Group: Education
