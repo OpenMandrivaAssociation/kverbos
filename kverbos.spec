@@ -5,7 +5,7 @@ Release: %mkrel 2
 Source: http://www.mzgz.de/kverbos/%name-%version.tar.gz
 License: GPLv2+
 Group: Education
-Url: http://www.mzgz.de/kverbos/ekverbos.htm
+Url: https://www.mzgz.de/kverbos/ekverbos.htm
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: kdeedu4-devel
 
